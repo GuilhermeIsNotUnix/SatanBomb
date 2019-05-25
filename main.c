@@ -30,6 +30,5 @@ int main(void) {
             system(comando);
         }
 	#endif
-	
 	return 0;
 }
