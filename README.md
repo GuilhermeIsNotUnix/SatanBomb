@@ -1,6 +1,6 @@
 # SatanBomb
 
-SatanBomb é uma simples Fork Bomb Cross-Platform (MacOS, Linux, Windows 32/64 bits) feita em C.
+SatanBomb é uma simples Fork Bomb Cross-Platform (MacOS, Linux, Windows 32/64 bits e UNIX) feita em C.
 
 <h2>Responsabilidade</h2>
 Não me responsabilizo pelo uso indevido deste código. SatanBomb foi criado para fins acadêmicos, principalmente para entender o uso de Pré-processadores (ou MACROS) que identificam o sistema operacional em uso e executam somente o que é compatível para o mesmo, simulando um "sistema multiplataforma".
