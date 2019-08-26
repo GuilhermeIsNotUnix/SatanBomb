@@ -1,4 +1,5 @@
 # SatanBomb
+<img src="SatanBomb.png" alt="SatanBomb Logo">
 
 SatanBomb é uma simples Fork Bomb Cross-Platform (macOS, GNU/Linux, Windows 32/64 bits e sistemas baseados em UNIX) feita em C.
 
